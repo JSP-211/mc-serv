@@ -1,0 +1,17 @@
+ ______   ______              _    _______ ______  _    _ _______ ______
+|  ___ \ / _____)            | |  (_______|_____ \| |  | (_______|_____ \
+| | _ | | /         ___       \ \  _____   _____) ) |  | |_____   _____) )
+| || || | |        (___)       \ \|  ___) (_____ ( \ \/ /|  ___) (_____ (
+| || || | \_____           _____) ) |_____      | | \  / | |_____      | |
+|_||_||_|\______)         (______/|_______)     |_|  \/  |_______)     |_|
+
+______________________________________________________________________________________
+
+
+This is my take on a Minecraft Private Server! It provides much more flexibility and a much better base than the original server
+which was created by Notch (as far as I know?). It makes use of the java.nio API and uses the reactor pattern (google it if you're unsure)
+
+
+THIS README WILL BE UPDATED WITH THE PROJECT.
+This file was modified by IntelliJ IDEA 10.5.1 for binding GitHub repository
+This file was modified by IntelliJ IDEA 10.5.1 for binding GitHub repository
